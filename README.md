@@ -3,11 +3,11 @@
 `Below is my index.html code resource explained`
 
 ```html
-<DOCTYPE html>
-<html>
+<!DOCTYPE html><html>
 <body>
-<h1>Hello World</h1>
-<p>This if My First Hello World Commited</p>
+    <title>Hello World</title>
+    <p>My First Hello World Commited</p>
 </body>
-</html
+
+</html>
 ``` 
