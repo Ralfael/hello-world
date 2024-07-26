@@ -3,7 +3,7 @@
 `Below is my index.html code resource explained`
 
 ```html
-<DOCTYPE! html>
+<DOCTYPE html>
 <html>
 <body>
 <h1>Hello World</h1>
